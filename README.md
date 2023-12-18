@@ -21,7 +21,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, n
 #Web Application Testing, Network Pentesting (Active Directory, Docker, Kubernetes, Antivirus Evasion and more)
 
 1. [Pickle Rick](https://medium.com/@josephalan17201972/pickle-rick-tryhackme-write-up-fd3331b7f712)
-2. [Archangel](https://medium.com/@josephalan17201972/archangel-tryhackme-write-766e010a74c5)
+2. [Archangel - LFI](https://medium.com/@josephalan17201972/archangel-tryhackme-write-766e010a74c5)
 3. [Tech Support](https://medium.com/@josephalan17201972/tech-support-tryhackme-write-up-b640079275bc)
 4. [Year of The Rabbit](https://medium.com/@josephalan17201972/year-of-the-rabbit-tryhackme-writeup-32347c65010b)
 5. [All in One](https://medium.com/@josephalan17201972/all-in-one-tryhackme-write-up-ff5449a6a56c)
@@ -91,7 +91,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, n
 
 ## Contributing
 
-We encourage contributions from the community to enrich the repository. If you have your own write-ups or improvements to existing ones, follow these steps:
+We encourage contributions from the community to enrich the repository. If you have your write-ups or improvements to existing ones, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your changes.

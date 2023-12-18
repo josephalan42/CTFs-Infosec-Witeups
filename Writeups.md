@@ -35,7 +35,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, n
 13. [CMesS](https://medium.com/@josephalan17201972/cmess-tryhackme-write-up-aaf63f2806bb)
 14. [Watcher](https://medium.com/@josephalan17201972/watcher-tryhackme-write-up-4c6e533dc80c)
 15. [Annie](https://medium.com/@josephalan17201972/annie-tryhackme-write-up-da70d598c7c4)
-16. [Napping](https://medium.com/@josephalan17201972/napping-tryhackme-write-up-52ec58bc9991)]
+16. [Napping](https://medium.com/@josephalan17201972/napping-tryhackme-write-up-52ec58bc9991)
 17. [Traverse](https://medium.com/@josephalan17201972/traverse-tryhackme-write-up-9f4594af6903)
 18. [Git Happens](https://medium.com/@josephalan17201972/git-happens-tryhackme-write-up-695e418ed7cf)
 19. [Committed](https://medium.com/@josephalan17201972/committed-tryhackme-write-up-2771222809e6)

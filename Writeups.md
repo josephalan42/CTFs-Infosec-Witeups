@@ -13,13 +13,13 @@ Welcome to the CTF and InfoSec Write-ups repository! This collection serves as a
 
 This repository is a curated compilation of write-ups covering a wide spectrum of challenges in both Capture The Flag competitions and broader Information Security scenarios. From network analysis and wiretapping to web application vulnerabilities and binary exploitation, we aim to provide diverse content that caters to various skill levels.
 
-## CTF Wiretups
+
+##Wiretups
 
 Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, network forensics, and communication protocols. Each write-up follows a structured format to guide you through the challenge, the tools used, the approach taken, and the ultimate solution.
 
-## InfoSec Write-ups
-
-Beyond CTFs, this repository also houses write-ups for general InfoSec scenarios. Whether it's exploiting web applications, reverse engineering binaries, or uncovering vulnerabilities in systems, these write-ups offer insights into real-world security challenges.
+#Web Application Pentesting
+[Pickle Rick](https://medium.com/@josephalan17201972/pickle-rick-tryhackme-write-up-fd3331b7f712)
 
 ## Contributing
 

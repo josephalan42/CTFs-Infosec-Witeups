@@ -56,6 +56,18 @@ Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, n
 34. [Expose](https://medium.com/@josephalan17201972/expose-tryhackme-write-up-6c84abba6105)
 35. [Hijack](https://blog.devgenius.io/hijack-tryhackme-write-up-3bc64e873f00)
 36. [DockMagic](https://blog.devgenius.io/dockmagic-tryhackme-write-up-79448421e2a1)
+37. [Lookback - CVE-2021–3447](https://medium.com/@josephalan17201972/lookback-tryhackme-write-up-f9360c58f8ef)
+
+
+#Reverse Engineering & Malware Analysis 
+1. [Athena - Reverse Engineering A LKM Rootkit](https://systemweakness.com/athena-tryhackme-write-up-reverse-engineering-an-lkm-rootkit-b7e1cb82ea84)
+2. [Advanced Static Analysis - Reverse Engineering a Malware Sample](https://medium.com/@josephalan17201972/advanced-static-analysis-tryhackme-write-up-155c53ff2d9b)
+3. [Tgus - Crackme](https://medium.com/@josephalan17201972/tgus-crackme-write-up-25a4a78fa401)
+4. [sudox18's Level1 - Crackme](https://medium.com/@josephalan17201972/sudo0x18s-level1-crackme-write-up-56b4b00fc441)
+5. [Malware Reverse Engineering](https://medium.com/@josephalan17201972/basic-malware-re-tryhackme-write-up-1dafaff1c120)
+6. [Reversing ELF](https://medium.com/@josephalan17201972/reversing-elf-tryhackme-write-up-b7a11651e8d4)
+7. [0x41HAZ](https://medium.com/@josephalan17201972/0x41haz-tryhackme-write-up-63ef92ce990d)
+8. 
 
 ## Contributing
 

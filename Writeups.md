@@ -67,7 +67,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, n
 5. [Malware Reverse Engineering](https://medium.com/@josephalan17201972/basic-malware-re-tryhackme-write-up-1dafaff1c120)
 6. [Reversing ELF](https://medium.com/@josephalan17201972/reversing-elf-tryhackme-write-up-b7a11651e8d4)
 7. [0x41HAZ](https://medium.com/@josephalan17201972/0x41haz-tryhackme-write-up-63ef92ce990d)
-8. 
+
 
 ## Contributing
 

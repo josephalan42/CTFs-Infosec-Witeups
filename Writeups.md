@@ -18,7 +18,7 @@ This repository is a curated compilation of write-ups covering a wide spectrum o
 
 Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, network forensics, and communication protocols. Each write-up follows a structured format to guide you through the challenge, the tools used, the approach taken, and the ultimate solution.
 
-#Web Application Pentesting
+#Web Application Testing, Network Pentesting (Active Directory, Docker, Kubernetes, Antivirus Evasion and more)
 
 1. [Pickle Rick](https://medium.com/@josephalan17201972/pickle-rick-tryhackme-write-up-fd3331b7f712)
 2. [Archangel](https://medium.com/@josephalan17201972/archangel-tryhackme-write-766e010a74c5)
@@ -57,6 +57,9 @@ Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, n
 35. [Hijack](https://blog.devgenius.io/hijack-tryhackme-write-up-3bc64e873f00)
 36. [DockMagic](https://blog.devgenius.io/dockmagic-tryhackme-write-up-79448421e2a1)
 37. [Lookback - CVE-2021–3447](https://medium.com/@josephalan17201972/lookback-tryhackme-write-up-f9360c58f8ef)
+38. [Tokyo Ghoul - pwning a python script](https://medium.com/@josephalan17201972/tokyo-ghoul-tryhackme-write-up-e762775bc75f)
+39. [Basic Pentesting](https://medium.com/@josephalan17201972/basic-pentesting-tryhackme-write-up-96c11f65b7dc)
+40. 
 
 
 #Reverse Engineering & Malware Analysis 
@@ -68,6 +71,15 @@ Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, n
 6. [Reversing ELF](https://medium.com/@josephalan17201972/reversing-elf-tryhackme-write-up-b7a11651e8d4)
 7. [0x41HAZ](https://medium.com/@josephalan17201972/0x41haz-tryhackme-write-up-63ef92ce990d)
 
+#SIEM, Threat Intelligence, Phishing Analysis, Threat Hunting
+1. [Snapped Phish-ing Line - Phishing Analysis](https://medium.com/@josephalan17201972/snapped-phish-ing-line-tryhackme-writeup-b8f26ff25415)
+2. [ParrotPost: Phishing Analysis](https://medium.com/@josephalan17201972/parrotpost-phishing-analysis-tryhackme-write-up-ed3a56e6d236)
+3. [Tropic Trooper](https://medium.com/@josephalan17201972/tropic-trooper-tryhackme-write-up-ac961f520ce3)
+4. [Splunk Exploring SPL](https://medium.com/@josephalan17201972/splunk-exploring-spl-tryhackme-write-up-b4f50e0903eb)
+5. [Auditing & Monitoring - GRC](https://medium.com/@josephalan17201972/auditing-and-monitoring-tryhackme-write-up-f654cf63fdd8)
+6. [New Hire Old Artifacts - Splunk](https://medium.com/@josephalan17201972/new-hire-old-artifacts-tryhackme-write-up-501168009530)
+7. [Identification & Scoping Analyst](https://medium.com/@josephalan17201972/identification-scoping-analyst-tryhackme-write-up-ef9b0b8157fc)
+8. 
 
 ## Contributing
 

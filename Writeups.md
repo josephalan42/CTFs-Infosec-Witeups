@@ -59,7 +59,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, n
 37. [Lookback - CVE-2021–3447](https://medium.com/@josephalan17201972/lookback-tryhackme-write-up-f9360c58f8ef)
 38. [Tokyo Ghoul - pwning a python script](https://medium.com/@josephalan17201972/tokyo-ghoul-tryhackme-write-up-e762775bc75f)
 39. [Basic Pentesting](https://medium.com/@josephalan17201972/basic-pentesting-tryhackme-write-up-96c11f65b7dc)
-40. 
+40. [Stealth - Host Evasion](https://systemweakness.com/stealth-tryhackme-write-up-aa684e97575a)
 
 
 #Reverse Engineering & Malware Analysis 
@@ -74,12 +74,20 @@ Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, n
 #SIEM, Threat Intelligence, Phishing Analysis, Threat Hunting
 1. [Snapped Phish-ing Line - Phishing Analysis](https://medium.com/@josephalan17201972/snapped-phish-ing-line-tryhackme-writeup-b8f26ff25415)
 2. [ParrotPost: Phishing Analysis](https://medium.com/@josephalan17201972/parrotpost-phishing-analysis-tryhackme-write-up-ed3a56e6d236)
-3. [Tropic Trooper](https://medium.com/@josephalan17201972/tropic-trooper-tryhackme-write-up-ac961f520ce3)
+3. [Tropic Trooper APT - OpenCTI](https://medium.com/@josephalan17201972/tropic-trooper-tryhackme-write-up-ac961f520ce3)
 4. [Splunk Exploring SPL](https://medium.com/@josephalan17201972/splunk-exploring-spl-tryhackme-write-up-b4f50e0903eb)
 5. [Auditing & Monitoring - GRC](https://medium.com/@josephalan17201972/auditing-and-monitoring-tryhackme-write-up-f654cf63fdd8)
 6. [New Hire Old Artifacts - Splunk](https://medium.com/@josephalan17201972/new-hire-old-artifacts-tryhackme-write-up-501168009530)
 7. [Identification & Scoping Analyst](https://medium.com/@josephalan17201972/identification-scoping-analyst-tryhackme-write-up-ef9b0b8157fc)
-8. 
+8. [Splunk Dashboards and Reports](https://medium.com/@josephalan17201972/splunk-dashboards-and-reports-tryhackme-write-up-cc423f9447b8)
+9. [Threat Hunting - Elastic Search](https://medium.com/@josephalan17201972/threat-hunting-introduction-12c09b824a55)
+10. [Threat Hunting Foothold - Elastic Search](https://medium.com/@josephalan17201972/threat-hunting-foothold-tryhackme-write-up-669671139cab)
+11. [Threat Hunting Pivoting Elastic Search](https://medium.com/@josephalan17201972/threat-hunting-pivoting-tryhackme-write-up-ab451dcc7b13)
+12. [Threat Hunting Endgame - Elastic Search](https://medium.com/@josephalan17201972/threat-hunting-endgame-tryhackme-write-up-56b4e7d3fd13)
+13. [Servidae: Log Analysis in ELK](https://medium.com/@josephalan17201972/servidae-log-analysis-in-elk-tryhackme-write-up-52a7902c7892)
+14. [Boogeyman 2](https://medium.com/@josephalan17201972/boogeyman-2-tryhackme-write-up-e3c847479b91)
+15. [Spyware Analysis With Wireshark - Tesla/OriginLogger based spyware](https://medium.com/@josephalan17201972/spyware-analysis-with-wireshark-584bdc8d50c4)
+
 
 ## Contributing
 

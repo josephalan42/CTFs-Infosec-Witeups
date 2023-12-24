@@ -62,7 +62,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, n
 40. [Stealth - Host Evasion](https://systemweakness.com/stealth-tryhackme-write-up-aa684e97575a)
 
 
-#Reverse Engineering & Malware Analysis 
+### Reverse Engineering & Malware Analysis 
 1. [Athena - Reverse Engineering A LKM Rootkit](https://systemweakness.com/athena-tryhackme-write-up-reverse-engineering-an-lkm-rootkit-b7e1cb82ea84)
 2. [Advanced Static Analysis - Reverse Engineering a Malware Sample](https://medium.com/@josephalan17201972/advanced-static-analysis-tryhackme-write-up-155c53ff2d9b)
 3. [Tgus - Crackme](https://medium.com/@josephalan17201972/tgus-crackme-write-up-25a4a78fa401)
@@ -71,7 +71,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, n
 6. [Reversing ELF](https://medium.com/@josephalan17201972/reversing-elf-tryhackme-write-up-b7a11651e8d4)
 7. [0x41HAZ](https://medium.com/@josephalan17201972/0x41haz-tryhackme-write-up-63ef92ce990d)
 
-#SIEM, Threat Intelligence, Phishing Analysis, Threat Hunting
+### SIEM, Threat Intelligence, Phishing Analysis, Threat Hunting
 1. [Snapped Phish-ing Line - Phishing Analysis](https://medium.com/@josephalan17201972/snapped-phish-ing-line-tryhackme-writeup-b8f26ff25415)
 2. [ParrotPost: Phishing Analysis](https://medium.com/@josephalan17201972/parrotpost-phishing-analysis-tryhackme-write-up-ed3a56e6d236)
 3. [Tropic Trooper APT - OpenCTI](https://medium.com/@josephalan17201972/tropic-trooper-tryhackme-write-up-ac961f520ce3)

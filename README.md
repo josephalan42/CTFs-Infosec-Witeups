@@ -11,12 +11,12 @@ Welcome to the CTF and InfoSec Write-ups repository! This collection serves as a
 
 ## Introduction
 
-This repository is a curated compilation of write-ups covering a wide spectrum of challenges in both Capture The Flag competitions and broader Information Security scenarios. From network analysis and wiretapping to web application vulnerabilities and binary exploitation, we aim to provide diverse content that caters to various skill levels.
+This repository is a curated compilation of write-ups covering a wide spectrum of challenges in both Capture The Flag competitions and broader Information Security scenarios. From network analysis and operating system to web application vulnerabilities and binary exploitation, I aim to provide diverse content that caters to various skill levels.
 
 
 ## Writeups
 
-Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, network forensics, and communication protocols. Each write-up follows a structured format to guide you through the challenge, the tools used, the approach taken, and the ultimate solution.
+Explore CTF challenges related to red teaming, webapp pentesting, network forensics, and communication protocols. Each write-up follows a structured format to guide you through the challenge, the tools used, the approach taken, and the ultimate solution.
 
 ### Web Application Testing, Network Pentesting (Active Directory, Docker, Kubernetes, Antivirus Evasion and more)
 
@@ -27,39 +27,41 @@ Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, n
 5. [All in One - Wordpress Vuln & SUID Local Privelege Escalation](https://medium.com/@josephalan17201972/all-in-one-tryhackme-write-up-ff5449a6a56c)
 6. [Thompson - Fuzzing & Msfvenom for .war payload](https://medium.com/@josephalan17201972/thompson-tryhackme-write-up-f206142d8871)
 7. [Bolt - Metasploit Remote Code Execution](https://medium.com/@josephalan17201972/bolt-tryhackme-write-up-cae84a4e840b)
-8. [EasyPeasey](https://medium.com/@josephalan17201972/easypeasy-tryhackme-write-up-d3eb3bc0b09d)
-9. [Brute it](https://medium.com/@josephalan17201972/brute-it-tryhackme-write-up-a05e47a4991a)
-10. [Chocolate Factory](https://medium.com/@josephalan17201972/chocolate-factory-tryhackme-write-up-b3b80a64b8d3)
-11. [Source](https://medium.com/@josephalan17201972/source-tryhackme-write-up-a093a6af79c2)
-12. [Epoch](https://medium.com/@josephalan17201972/epoch-tryhackme-write-up-2c024bce9a6c)
-13. [CMesS](https://medium.com/@josephalan17201972/cmess-tryhackme-write-up-aaf63f2806bb)
-14. [Watcher](https://medium.com/@josephalan17201972/watcher-tryhackme-write-up-4c6e533dc80c)
-15. [Annie](https://medium.com/@josephalan17201972/annie-tryhackme-write-up-da70d598c7c4)
-16. [Napping](https://medium.com/@josephalan17201972/napping-tryhackme-write-up-52ec58bc9991)
-17. [Traverse](https://medium.com/@josephalan17201972/traverse-tryhackme-write-up-9f4594af6903)
-18. [Git Happens](https://medium.com/@josephalan17201972/git-happens-tryhackme-write-up-695e418ed7cf)
-19. [Committed](https://medium.com/@josephalan17201972/committed-tryhackme-write-up-2771222809e6)
-20. [Neighbour](https://medium.com/@josephalan17201972/neighbour-tryhackme-write-up-7b48cb7f08b6)
-21. [Surfer](https://medium.com/@josephalan17201972/surfer-tryhackme-write-up-1c54b7ea9e22)
-22. [Corridor](https://medium.com/@josephalan17201972/corridor-tryhackme-write-up-2856dabb25)
-23. [Templates - SSTI ](https://medium.com/@josephalan17201972/templates-tryhackme-write-up-c66e616582dd)
-24. [Grep - OSINT](https://medium.com/@josephalan17201972/grep-tryhackme-write-up-4d2961bea553)
-25. [RES](https://medium.com/@josephalan17201972/res-tryhackme-write-up-91816d9ac309)
-26. [The Sha Juggler - PHP Type Juggling](https://medium.com/@josephalan17201972/the-sha-juggler-cloud-sek-ctf-write-up-ad8101d0dea7)
-27. [Authentication Bypass](https://systemweakness.com/authentication-bypass-tryhackme-write-up-2c80a4f069c7)
-28. [Topology](https://medium.com/@josephalan17201972/topology-hack-the-box-write-up-b7a0f2ae5531)
-29. [Cozy Hosting](https://medium.com/@josephalan17201972/cozy-hosting-hack-the-box-write-up-c0c9ae9d8ef0)
-30. [Keeper](https://medium.com/@josephalan17201972/keeper-hackthebox-write-up-61bc7406bdc6)
-31. [OWASP Broken Access Control](https://medium.com/@josephalan17201972/owasp-broken-access-control-tryhackme-write-up-9c83bfede3af)
-32. [Two Million](https://medium.com/@josephalan17201972/two-million-hackthebox-write-up-753b2e9450e5)
-33. [Devie](https://medium.com/@josephalan17201972/devie-tryhackme-write-up-4838be59ee86)
-34. [Expose](https://medium.com/@josephalan17201972/expose-tryhackme-write-up-6c84abba6105)
-35. [Hijack](https://blog.devgenius.io/hijack-tryhackme-write-up-3bc64e873f00)
-36. [DockMagic](https://blog.devgenius.io/dockmagic-tryhackme-write-up-79448421e2a1)
-37. [Lookback - CVE-2021–3447](https://medium.com/@josephalan17201972/lookback-tryhackme-write-up-f9360c58f8ef)
-38. [Tokyo Ghoul - pwning a python script](https://medium.com/@josephalan17201972/tokyo-ghoul-tryhackme-write-up-e762775bc75f)
-39. [Basic Pentesting](https://medium.com/@josephalan17201972/basic-pentesting-tryhackme-write-up-96c11f65b7dc)
-40. [Stealth - Host Evasion](https://systemweakness.com/stealth-tryhackme-write-up-aa684e97575a)
+8. [EasyPeasey - Web Fuzzing & Local Privilege Escalation](https://medium.com/@josephalan17201972/easypeasy-tryhackme-write-up-d3eb3bc0b09d)
+9. [Brute it - Hydra & John The Ripper Password Cracking](https://medium.com/@josephalan17201972/brute-it-tryhackme-write-up-a05e47a4991a)
+10. [Cat Pictures - Local Privilege Escalation & Web Fuzzing](https://medium.com/@josephalan17201972/cat-pictures-tryhackme-write-up-1bda0610f437)
+11. [Chocolate Factory - Command Injection](https://medium.com/@josephalan17201972/chocolate-factory-tryhackme-write-up-b3b80a64b8d3)
+12. [Source - CVE : 2019–15107](https://medium.com/@josephalan17201972/source-tryhackme-write-up-a093a6af79c2)
+13. [Epoch - Command Injection](https://medium.com/@josephalan17201972/epoch-tryhackme-write-up-2c024bce9a6c)
+14. [CMesS - Gila CMS 1.10.9 - Remote Code Execution](https://medium.com/@josephalan17201972/cmess-tryhackme-write-up-aaf63f2806bb)
+15. [Watcher - Web Fuzzing & LFI](https://medium.com/@josephalan17201972/watcher-tryhackme-write-up-4c6e533dc80c)
+16. [Annie - Fixed a public exploit for AnyDesk 5.5.2 - Remote Code Execution](https://medium.com/@josephalan17201972/annie-tryhackme-write-up-da70d598c7c4)
+17. [Napping - Tab Nabbing Vulnerability](https://medium.com/@josephalan17201972/napping-tryhackme-write-up-52ec58bc9991)
+18. [Traverse - Javascript deobfuscation, API Hacking, Command Injection & Compromised Machine Recovery](https://medium.com/@josephalan17201972/traverse-tryhackme-write-up-9f4594af6903)
+19. [Git Happens - DevSecOps](https://medium.com/@josephalan17201972/git-happens-tryhackme-write-up-695e418ed7cf)
+20. [Committed - DevSecOps](https://medium.com/@josephalan17201972/committed-tryhackme-write-up-2771222809e6)
+21. [Neighbour - IDOR](https://medium.com/@josephalan17201972/neighbour-tryhackme-write-up-7b48cb7f08b6)
+22. [Surfer - SSRF](https://medium.com/@josephalan17201972/surfer-tryhackme-write-up-1c54b7ea9e22)
+23. [Corridor - IDOR](https://medium.com/@josephalan17201972/corridor-tryhackme-write-up-2856dabb25)
+24. [Templates - SSTI ](https://medium.com/@josephalan17201972/templates-tryhackme-write-up-c66e616582dd)
+25. [Cyberheroes - Authentication Bypass](https://medium.com/@josephalan17201972/cyberheroes-tryhackme-write-up-cb6b7020d657)
+26. [Grep - OSINT](https://medium.com/@josephalan17201972/grep-tryhackme-write-up-4d2961bea553)
+27. [RES - Redis CLI Vuln](https://medium.com/@josephalan17201972/res-tryhackme-write-up-91816d9ac309)
+28. [The Sha Juggler - PHP Type Juggling](https://medium.com/@josephalan17201972/the-sha-juggler-cloud-sek-ctf-write-up-ad8101d0dea7)
+29. [Authentication Bypass](https://systemweakness.com/authentication-bypass-tryhackme-write-up-2c80a4f069c7)
+30. [Topology - LaTeX Injection](https://medium.com/@josephalan17201972/topology-hack-the-box-write-up-b7a0f2ae5531)
+31. [Cozy Hosting - Springboot Vuln & Local Privilege Escalation](https://medium.com/@josephalan17201972/cozy-hosting-hack-the-box-write-up-c0c9ae9d8ef0)
+32. [Keeper - CVE-2023–32784](https://medium.com/@josephalan17201972/keeper-hackthebox-write-up-61bc7406bdc6)
+33. [OWASP Broken Access Control](https://medium.com/@josephalan17201972/owasp-broken-access-control-tryhackme-write-up-9c83bfede3af)
+34. [Two Million - API Hacking](https://medium.com/@josephalan17201972/two-million-hackthebox-write-up-753b2e9450e5)
+35. [Devie - Python eval() Function Command Injection & Pwning a Python & Bash Script](https://medium.com/@josephalan17201972/devie-tryhackme-write-up-4838be59ee86)
+36. [Expose - SQLInjection , File Upload Bypass & SUID Privilege Escalation](https://medium.com/@josephalan17201972/expose-tryhackme-write-up-6c84abba6105)
+37. [Hijack - PHPSESSIDD Session Hijacking](https://blog.devgenius.io/hijack-tryhackme-write-up-3bc64e873f00)
+38. [DockMagic - ImagaeMagick CVE 2022-44268 & Docker cgroups Escape](https://blog.devgenius.io/dockmagic-tryhackme-write-up-79448421e2a1)
+39. [Lookback - CVE-2021–3447](https://medium.com/@josephalan17201972/lookback-tryhackme-write-up-f9360c58f8ef)
+40. [Tokyo Ghoul - pwning a python script](https://medium.com/@josephalan17201972/tokyo-ghoul-tryhackme-write-up-e762775bc75f)
+41. [Basic Pentesting](https://medium.com/@josephalan17201972/basic-pentesting-tryhackme-write-up-96c11f65b7dc)
+42. [Stealth - Host Evasion](https://systemweakness.com/stealth-tryhackme-write-up-aa684e97575a)
 
 
 ### Reverse Engineering & Malware Analysis 

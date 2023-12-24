@@ -18,11 +18,11 @@ This repository is a curated compilation of write-ups covering a wide spectrum o
 
 Explore CTF challenges related to red teaming, webapp pentesting, wiretapping, network forensics, and communication protocols. Each write-up follows a structured format to guide you through the challenge, the tools used, the approach taken, and the ultimate solution.
 
-#Web Application Testing, Network Pentesting (Active Directory, Docker, Kubernetes, Antivirus Evasion and more)
+### Web Application Testing, Network Pentesting (Active Directory, Docker, Kubernetes, Antivirus Evasion and more)
 
-1. [Pickle Rick](https://medium.com/@josephalan17201972/pickle-rick-tryhackme-write-up-fd3331b7f712)
+1. [Pickle Rick - Command Injection](https://medium.com/@josephalan17201972/pickle-rick-tryhackme-write-up-fd3331b7f712)
 2. [Archangel - LFI](https://medium.com/@josephalan17201972/archangel-tryhackme-write-766e010a74c5)
-3. [Tech Support](https://medium.com/@josephalan17201972/tech-support-tryhackme-write-up-b640079275bc)
+3. [Tech Support - Subrion CMS 4.2.1 - Arbitrary File Upload CVE 2018-19422](https://medium.com/@josephalan17201972/tech-support-tryhackme-write-up-b640079275bc)
 4. [Year of The Rabbit](https://medium.com/@josephalan17201972/year-of-the-rabbit-tryhackme-writeup-32347c65010b)
 5. [All in One](https://medium.com/@josephalan17201972/all-in-one-tryhackme-write-up-ff5449a6a56c)
 6. [Thompson](https://medium.com/@josephalan17201972/thompson-tryhackme-write-up-f206142d8871)

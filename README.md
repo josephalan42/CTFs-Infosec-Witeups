@@ -62,7 +62,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, network forens
 40. [Tokyo Ghoul - pwning a python script](https://medium.com/@josephalan17201972/tokyo-ghoul-tryhackme-write-up-e762775bc75f)
 41. [Basic Pentesting](https://medium.com/@josephalan17201972/basic-pentesting-tryhackme-write-up-96c11f65b7dc)
 42. [Stealth - Host Evasion](https://systemweakness.com/stealth-tryhackme-write-up-aa684e97575a)
-43. [Dodge - Network/Firewall, Enumeration & Local Privilege Escalation](https://medium.com/@josephalan17201972/dodge-tryhackme-write-up-f84bac75ad69)
+43. [Dodge - Network/Firewall Evasion, Enumeration & Local Privilege Escalation](https://medium.com/@josephalan17201972/dodge-tryhackme-write-up-f84bac75ad69)
 
 
 ### Reverse Engineering & Malware Analysis 

@@ -64,6 +64,8 @@ Explore CTF challenges related to red teaming, webapp pentesting, network forens
 42. [Stealth - Host Evasion](https://systemweakness.com/stealth-tryhackme-write-up-aa684e97575a)
 43. [Dodge - Network/Firewall Evasion, Enumeration & Local Privilege Escalation](https://medium.com/@josephalan17201972/dodge-tryhackme-write-up-f84bac75ad69)
 
+## TryHackMe Wreath Network 
+1. [TryHackMe - Wreath Network Part 1 - Pivoting, Metasploit, Network Pentesting](https://medium.com/@josephalan17201972/tryhackme-wreath-network-write-up-part-1-01c22a426061)
 
 ### Reverse Engineering & Malware Analysis 
 1. [Athena - Reverse Engineering A LKM Rootkit](https://systemweakness.com/athena-tryhackme-write-up-reverse-engineering-an-lkm-rootkit-b7e1cb82ea84)

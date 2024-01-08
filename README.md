@@ -63,6 +63,10 @@ Explore CTF challenges related to red teaming, webapp pentesting, network forens
 41. [Basic Pentesting](https://medium.com/@josephalan17201972/basic-pentesting-tryhackme-write-up-96c11f65b7dc)
 42. [Stealth - Host Evasion](https://systemweakness.com/stealth-tryhackme-write-up-aa684e97575a)
 43. [Dodge - Network/Firewall Evasion, Enumeration & Local Privilege Escalation](https://medium.com/@josephalan17201972/dodge-tryhackme-write-up-f84bac75ad69)
+44. [TryHackMe Advent of Cyber Day 3 2023 - Brute Forcing With Hydra](https://medium.com/@josephalan17201972/tryhackme-advent-of-cyber-day-3-2023-9af4f7db2291)
+45. [TryHackme Advent of Cyber Day 21 2023 - DevSecOps](https://medium.com/@josephalan17201972/tryhackme-advent-of-cyber-day-21-02e3219db44d)
+46. [TryHackMe Advent of Cyber Day 11 2023 - Active Directory Pentesting, Exploiting msDS-KeyCredentialLink](https://medium.com/@josephalan17201972/tryhackme-advent-of-cyber-day-11-2023-48315b8d3797)
+47. [TryHackMe Advent of Cyber Day 23 2023 - Active Directory Pentesting, NTLM Attacks with ntlm_theft](https://medium.com/@josephalan17201972/tryhackme-advent-of-cyber-day-23-2023-1c1f81d4a86b)
 
 ## TryHackMe Wreath Network 
 1. [TryHackMe - Wreath Network Part 1 - Pivoting, Metasploit, Network Pentesting](https://medium.com/@josephalan17201972/tryhackme-wreath-network-write-up-part-1-01c22a426061)
@@ -75,6 +79,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, network forens
 5. [Malware Reverse Engineering](https://medium.com/@josephalan17201972/basic-malware-re-tryhackme-write-up-1dafaff1c120)
 6. [Reversing ELF](https://medium.com/@josephalan17201972/reversing-elf-tryhackme-write-up-b7a11651e8d4)
 7. [0x41HAZ](https://medium.com/@josephalan17201972/0x41haz-tryhackme-write-up-63ef92ce990d)
+8. [TryHackMe Advent of Cyber 9 2023 - Malware Analysis With dnSpy That Contacts With A C2 Server](https://medium.com/@josephalan17201972/tryhackme-advent-of-cyber-day-9-2023-315417345b19)
 
 ### SIEM, Threat Intelligence, Phishing Analysis, Threat Hunting
 1. [Snapped Phish-ing Line - Phishing Analysis](https://medium.com/@josephalan17201972/snapped-phish-ing-line-tryhackme-writeup-b8f26ff25415)
@@ -92,6 +97,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, network forens
 13. [Servidae: Log Analysis in ELK](https://medium.com/@josephalan17201972/servidae-log-analysis-in-elk-tryhackme-write-up-52a7902c7892)
 14. [Boogeyman 2](https://medium.com/@josephalan17201972/boogeyman-2-tryhackme-write-up-e3c847479b91)
 15. [Spyware Analysis With Wireshark - Tesla/OriginLogger based spyware](https://medium.com/@josephalan17201972/spyware-analysis-with-wireshark-584bdc8d50c4)
+
 
 
 ## Contributing

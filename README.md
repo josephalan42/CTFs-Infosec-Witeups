@@ -69,7 +69,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, network forens
 47. [TryHackMe Advent of Cyber Day 23 2023 - Active Directory Pentesting, NTLM Attacks with ntlm_theft](https://medium.com/@josephalan17201972/tryhackme-advent-of-cyber-day-23-2023-1c1f81d4a86b)
 48. [WiFinetic - Hacking Wireless Networks](https://medium.com/@josephalan17201972/wifinetic-hackthebox-write-up-428e2c29ebb5)
 
-## TryHackMe Wreath Network 
+### TryHackMe Wreath Network 
 1. [TryHackMe - Wreath Network Part 1 - Pivoting, Metasploit, Network Pentesting](https://medium.com/@josephalan17201972/tryhackme-wreath-network-write-up-part-1-01c22a426061)
 
 ### Reverse Engineering & Malware Analysis 

@@ -100,6 +100,9 @@ Explore CTF challenges related to red teaming, webapp pentesting, network forens
 14. [Boogeyman 2](https://medium.com/@josephalan17201972/boogeyman-2-tryhackme-write-up-e3c847479b91)
 15. [Spyware Analysis With Wireshark - Tesla/OriginLogger based spyware](https://medium.com/@josephalan17201972/spyware-analysis-with-wireshark-584bdc8d50c4)
 
+### Artificial Intelligence 
+1. [Gandalf CTF Attacking LLM AI - Prompt Injection](https://medium.com/@josephalan17201972/gandalf-ctf-attacking-ai-4d8c2fa9eb14)
+
 
 
 ## Contributing

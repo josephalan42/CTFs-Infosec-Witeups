@@ -72,6 +72,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, network forens
 
 ### TryHackMe Wreath Network 
 1. [TryHackMe - Wreath Network Part 1 - Pivoting, Metasploit, Network Pentesting](https://medium.com/@josephalan17201972/tryhackme-wreath-network-write-up-part-1-01c22a426061)
+2. [TryHackMe - Wreath Network Part 2 - Pivoting, PowerShell Empire C2 Framework, Network Pentesting](https://medium.com/@josephalan17201972/tryhackme-wreath-network-write-up-part-2-2e0c79fe3a28)
 
 ### Reverse Engineering & Malware Analysis 
 1. [Athena - Reverse Engineering A LKM Rootkit](https://systemweakness.com/athena-tryhackme-write-up-reverse-engineering-an-lkm-rootkit-b7e1cb82ea84)

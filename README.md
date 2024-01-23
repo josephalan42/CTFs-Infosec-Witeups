@@ -70,6 +70,9 @@ Explore CTF challenges related to red teaming, webapp pentesting, network forens
 48. [WiFinetic - Hacking Wireless Networks](https://medium.com/@josephalan17201972/wifinetic-hackthebox-write-up-428e2c29ebb5)
 49. [Container Vulnerabilities - Docker, Devsecops, Linux OS](https://medium.com/@josephalan17201972/tryhackme-container-vulnerabilities-write-up-5d79ca57a913)
 50. [Forest - Active Directory, BloodHound, SharpHound, DCSync Attack](https://medium.com/@josephalan17201972/hackthebox-forest-write-up-31b278073ce8)
+51. [Sauna - Active Directory, Website OSINT, DCSync Attacks, Bloodhound Enumeration](https://medium.com/@josephalan17201972/hackthebox-sauna-write-up-d4b25c0d6cce)
+52. [GitLab CVE-2023–7028 - DevSecOps](https://medium.com/@josephalan17201972/tryhackme-gitlab-cve-2023-7028-15ac9af8d931)
+53. [Active -  SMB enumeration techniques, Group Policy Preferences enumeration and exploitation, Kerberos](https://medium.com/@josephalan17201972/hackthebox-active-write-up-2ea0d572b362)
 
 ### TryHackMe Wreath Network 
 1. [TryHackMe - Wreath Network Part 1 - Pivoting, Metasploit, Network Pentesting, Active Directory Pentesting](https://medium.com/@josephalan17201972/tryhackme-wreath-network-write-up-part-1-01c22a426061)

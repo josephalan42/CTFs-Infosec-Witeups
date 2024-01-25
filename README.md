@@ -73,6 +73,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, network forens
 51. [Sauna - Active Directory, Website OSINT, DCSync Attacks, Bloodhound Enumeration](https://medium.com/@josephalan17201972/hackthebox-sauna-write-up-d4b25c0d6cce)
 52. [GitLab CVE-2023–7028 - DevSecOps](https://medium.com/@josephalan17201972/tryhackme-gitlab-cve-2023-7028-15ac9af8d931)
 53. [Active -  SMB enumeration techniques, Group Policy Preferences enumeration and exploitation, Kerberos](https://medium.com/@josephalan17201972/hackthebox-active-write-up-2ea0d572b362)
+54. [HTTP Request Smuggling - Web App Security, HTTP Request Smuggling, Web Proxies,](https://medium.com/@josephalan17201972/tryhackme-http-request-smuggling-write-up-60685cef555f)
 
 ### TryHackMe Wreath Network 
 1. [TryHackMe - Wreath Network Part 1 - Pivoting, Metasploit, Network Pentesting, Active Directory Pentesting](https://medium.com/@josephalan17201972/tryhackme-wreath-network-write-up-part-1-01c22a426061)

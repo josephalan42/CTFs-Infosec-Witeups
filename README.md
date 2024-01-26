@@ -88,6 +88,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, network forens
 6. [Reversing ELF](https://medium.com/@josephalan17201972/reversing-elf-tryhackme-write-up-b7a11651e8d4)
 7. [0x41HAZ](https://medium.com/@josephalan17201972/0x41haz-tryhackme-write-up-63ef92ce990d)
 8. [TryHackMe Advent of Cyber 9 2023 - Malware Analysis With dnSpy That Contacts With A C2 Server](https://medium.com/@josephalan17201972/tryhackme-advent-of-cyber-day-9-2023-315417345b19)
+9. [Malbuster - Malware Analysis, PE Header disection, pe-tree, capa, Windows Binary Analysis](https://medium.com/@josephalan17201972/tryhackme-malbuster-write-up-516e1691d58f)
 
 ### SIEM, Threat Intelligence, Phishing Analysis, Threat Hunting
 1. [Snapped Phish-ing Line - Phishing Analysis](https://medium.com/@josephalan17201972/snapped-phish-ing-line-tryhackme-writeup-b8f26ff25415)

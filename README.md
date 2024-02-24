@@ -74,6 +74,9 @@ Explore CTF challenges related to red teaming, webapp pentesting, network forens
 52. [GitLab CVE-2023–7028 - DevSecOps](https://medium.com/@josephalan17201972/tryhackme-gitlab-cve-2023-7028-15ac9af8d931)
 53. [Active -  SMB enumeration techniques, Group Policy Preferences enumeration and exploitation, Kerberos](https://medium.com/@josephalan17201972/hackthebox-active-write-up-2ea0d572b362)
 54. [HTTP Request Smuggling - Web App Security, HTTP Request Smuggling, Web Proxies,](https://medium.com/@josephalan17201972/tryhackme-http-request-smuggling-write-up-60685cef555f)
+55. [Return - Active Directory & Windows Privilege Escalation By Modifying Service BinPath](https://medium.com/@josephalan17201972/hackthebox-return-write-up-d71cb7ae5676)
+56. [Resolute - Active Directory & Windows Privilege Escalation Via DLL Injection](https://medium.com/@josephalan17201972/hackthebox-resolute-write-up-58d6e081ab4e)
+57. [Moniker Link (CVE-2024–21413) - Attacking Microsoft Outlook Via Moniker Links](https://medium.com/@josephalan17201972/tryhackme-moniker-link-cve-2024-21413-write-up-baa2ba686791)
 
 ### TryHackMe Wreath Network 
 1. [TryHackMe - Wreath Network Part 1 - Pivoting, Metasploit, Network Pentesting, Active Directory Pentesting](https://medium.com/@josephalan17201972/tryhackme-wreath-network-write-up-part-1-01c22a426061)
@@ -106,6 +109,7 @@ Explore CTF challenges related to red teaming, webapp pentesting, network forens
 13. [Servidae: Log Analysis in ELK](https://medium.com/@josephalan17201972/servidae-log-analysis-in-elk-tryhackme-write-up-52a7902c7892)
 14. [Boogeyman 2](https://medium.com/@josephalan17201972/boogeyman-2-tryhackme-write-up-e3c847479b91)
 15. [Spyware Analysis With Wireshark - Tesla/OriginLogger based spyware](https://medium.com/@josephalan17201972/spyware-analysis-with-wireshark-584bdc8d50c4)
+16. [Tardigrade - Detecting Persistence Mechanisms On A Compromised Linux Endpoint](https://medium.com/@josephalan17201972/tryhackme-tardigrade-write-up-7c224bc6936e)
 
 ### Artificial Intelligence 
 1. [Gandalf CTF Attacking LLM AI - Prompt Injection](https://medium.com/@josephalan17201972/gandalf-ctf-attacking-ai-4d8c2fa9eb14)
